@@ -5,3 +5,4 @@ __pycache__/
 *.dll
 *.lib
 .DS_Store
+venv/ 
