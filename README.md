@@ -17,7 +17,8 @@
 
 ## 📷 Demo Preview
 
-![visionbot-ui](https://your-demo-link.com/screenshot.png)  
+![App Screenshot](Screenshot 2025-04-21 205118.png)
+
 > *Say "What do you see?" and VisionBot will look through your camera, recognize faces/objects, and reply using an offline LLM.*
 
 ---
